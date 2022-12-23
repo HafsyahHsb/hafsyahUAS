@@ -10,7 +10,6 @@
   <p>Email</p>
   <input v-model="email" type="text" class="form-text">
   <div class="mt-2">
-    <br></br>
   <button  type="submit" class="btn btn-info" @click.prevent="simpanData">Simpan</button>
 </div>
 </div>
